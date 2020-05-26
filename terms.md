@@ -198,4 +198,4 @@ Videsk SpA
  Santiago Centro,
  Chile
 
-**info@videsk.io**
+**privacy@videsk.io**

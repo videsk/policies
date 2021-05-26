@@ -128,7 +128,7 @@ Videsk SpA puede recolectar, usar, conservar y posiblemente compartir la informa
 
 Cabe señalar, que nada de lo dispuesto en la presente política de privacidad evitará el fiel cumplimiento de la legislación aplicable por parte de Videsk SpA.
 
-# Actualizaciones a nuestra Política de Privacidad
+# Actualizaciones
 
 Videsk SpA. puede actualizar su Política de Privacidad. Daremos aviso de las modificaciones de la Política de Privacidad, según corresponda, y actualizaremos la fecha de "Última Modificación" en la página web dónde se encuentra copia vigente de la Política de Privacidad. Al continuar con el uso de nuestros productos o servicios, confirma su
 aceptación a nuestra Política de Privacidad, con cualquier modificación. Si no está de acuerdo con nuestra Política de Privacidad o con sus modificaciones, debe dejar de usar nuestros productos y servicios. En cualquier caso podrá realizar las consultas respectivas por medio de los canales ya señalados.

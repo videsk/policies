@@ -10,7 +10,7 @@ Estas Políticas pueden actualizarse, en cuyo caso se notificará en el sitio we
 
 **Cabe señalar, que nada de lo dispuesto en la presente política de privacidad evitará el fiel cumplimiento de la legislación aplicable por parte de Videsk SpA.**
 
-**Información recopilada.**
+## Información recopilada
 
 Videsk SpA recibe y recopila información de los usuarios para poder operar, proveer, comprender y mejorar sus servicios, inclusive podría llegar a ocurrir durante la instalación, si el producto o servicio requiriera de instalación, acceso o uso de nuestros servicios.
 
@@ -18,23 +18,23 @@ El tipo de información que Videsk SpA recibe y recopila variará de la forma en
 
 La información recopilada puede ser información personal, lo que para efectos de la presente Política de Privacidad es aquella información que puede ser usada para identificar a un individuo, lo puede incluir, pero no se limita a, nombre, dirección de correo electrónico, postal u otra dirección física, información generada del uso de los productos o servicios y otra información requerida para proporcionar o entregar un servicio o llevar a cabo una transacción de comunicación que el usuario haya solicitado.
 
-**Seguridad.**
+## Seguridad
 
 En Videsk SpA utilizamos tecnologías de cifrado de la información para mantener un alto nivel de seguridad y privacidad de la información, además mantenemos medidas organizacionales para ayudar a proteger su información personal. Podemos verificar
 cuentas y actividades para prevenir violaciones a la seguridad o violaciones a la legislación aplicable, tanto internas como externas a nuestros productos y servicios.
 
 La prevención se desarrolla a través de la investigación de actividades sospechosas o incumplimientos en los términos señalados en los Términos y Condiciones de Videsk SpA.
 
-**Autorización para transferir, procesar y almacenar.**
+### Autorización para transferir, procesar y almacenar
 
 El usuario autoriza a Videsk SpA a transferir o asignar su información, fuera del territorio nacional, a cualquier afiliado o partner de Videsk SpA o a terceros que actúen, conforme a derecho, a nombre de Videsk SpA o a nombre propio, con el objeto de procesar y almacenar información. Por ejemplo para tener derecho de almacenar su información en servidores fuera de su territorio nacional.
 
-**Nuestras operaciones.**
+### Nuestras operaciones
 
 El usuario acepta nuestras prácticas de información, que incluyen la recopilación, el uso, el procesamiento y el uso compartido de su información, tal como se describe en esta Política de Privacidad, así como la transferencia y el procesamiento de su información en Chile, México, Estados Unidos, Hong Kong y otros países en forma internacional donde
 tenemos o usamos instalaciones, proveedores de servicios o socios, independientemente de dónde se usen nuestros productos o servicios. El usuario reconoce que las leyes, disposiciones y normas del país en el que se almacena o procesa su información pueden diferir de aquellas que rigen en su propio país.
 
-**Uso de la información.**
+### Uso de la información
 
 El usuario entiende que otorga a Videsk SpA una licencia para para recibir y recopilar su información de usuario, con el objetivo de operar, proveer, promocionar, mejorar, personalizar, optimizar, comercializar y respaldar nuestros servicios, y para desarrollar otros nuevos.
 
@@ -48,7 +48,7 @@ Es importante señalar que Videsk SpA no tiene acceso a todos los datos o inform
 
 Usamos cookies para operar, proveer, mejorar, personalizar y optimizar las respuestas y el servicio entregado. Lo anterior, entiéndase como parte del servicio proporcionado por Videsk SpA.
 
-**Administración de información.**
+### Administración de información
 
 En caso que un usuario quiera administrar, cambiar, limitar o eliminar información de sus cuentas, ello podrá realizarlo por medio del usuario administrador que existirá en cada cuenta empresa o institucional, el que también podrá cambiar los ajustes de nuestros servicios y variar la administración de cierta información, podrá acceder a cierta información, corregirla, actualizarla, eliminarla o solicitar su eliminación enviando una solicitud por correo electrónico a privacy@videsk.io. Videsk SpA se reserva el tiempo de respuesta a un plazo razonable.
 
@@ -67,7 +67,7 @@ La información del usuario final puede ser respaldada o recopilada por cada ins
 
 Los fines y razones aplicados a la recolección de datos y al tipo de datos o información, aplica para todos los tipos de usuario que den uso a los productos y servicios de Videsk SpA.
 
-**Información que proporciona el usuario.**
+### Información que proporciona el usuario
 
 El usuario entregará mediante su ingreso de datos, lo siguiente: la información registrada en su cuenta o formularios de contacto, mensajes, video-atenciones, conexiones, y la información tratada en las comunicaciones respectivas o los respaldos de esta, si las hubiere; misma aplicación tendrá en los casos que se solicite atención de usuario o atención de cliente, o las consultas respecto de la privacidad o algún otro tipo de contacto que se realice con Videsk SpA. También incluye la información tratada con terceros mediante las diferentes integraciones de los productos y servicios de Videsk SpA.
 
@@ -75,7 +75,7 @@ Lo anterior es de aplicación general, y de acción variable sujeto a factores d
 
 En caso de dudas, recomendamos realizar las consultas respectivas al tratamiento de datos a privacy@videsk.io.
 
-**Recopilación pasiva.**
+### Recopilación pasiva
 
 Como ocurre con la mayoría de los softwares, aplicaciones móviles y sitios web, en Videsk SpA recopilamos cierta información de manera automática, la cual enunciamos a continuación:
 
@@ -89,7 +89,7 @@ Como ocurre con la mayoría de los softwares, aplicaciones móviles y sitios web
    3. En el caso de navegadores puede incluir: modelo, versión registros Web Api y usuario.
    4. Usamos almacenamiento local, la que puede variar en el uso de diferentes aplicativos cómo localStorage, sessionStorage, Cookies, Web SQL, IndexedDB, Cache Storage, Application Cache. El uso del almacenamiento local es para operar y proveer nuestros servicios, lo que incluye proveer nuestros servicios basados en web, para entender cómo se usan nuestros productos y servicios y así siempre mejorar la experiencia del usuario. También podemos usar el almacenamiento local para recordar sus preferencias de idioma, y también para personalizar nuestros productos y servicios para el usuario.
 
-**Información de terceros.**
+## Información de terceros
 
 Podemos recibir información que otras personas nos proporcionan, lo que también podría incluir información sobre usuarios en ciertas circunstancias. En Videsk SpA trabajamos con proveedores externos que nos ayudan a operar, proveer, mejorar, entender, personalizar y comercializar nuestros productos y servicios, así como ofrecer servicios de ayuda para nuestros productos y servicios. Permitimos al usuario usar nuestros servicios en vinculación a otros servicios de terceros. El usuario que use nuestros productos o servicios en conjunto a productos o servicios de terceros, permite que Videsk SpA pueda recibir información sobre el mismo usuario, ya sea a través de los servicios de terceros o de forma directa por los productos y servicios de Videsk SpA.
 
@@ -97,12 +97,12 @@ Podemos recibir información que otras personas nos proporcionan, lo que tambié
 
 **En Videsk SpA no nos hacemos responsables de los términos y condiciones y políticas de privacidad de terceros, así como tampoco por sus actividades. Videsk SpA se limita a sólo permitir la interacción, dejando la decisión final de integrar y utilizar servicios de terceros, exclusivamente a cada tipo de usuario.**
 
-**Tecnología de seguimiento.**
+## Tecnología de seguimiento
 
 En nuestros servicios podemos utilizar cookies o tecnologías similares para analizar tendencias, administrar sitios web, realizar un seguimiento de los movimientos de los usuarios por los servicios y recopilar información demográfica respecto de nuestra base de usuarios. Los usuarios pueden contralar, a su propia discreción, el uso de cookies por medio del navegador.
 
 
-**Información compartida.**
+## Información compartida
 
 A través del uso de nuestros servicios, cada usuario comparte su información con nosotros, y a su vez, nosotros compartimos parte de su información para poder operar, mejorar, dar soporte y personalizar nuestros productos y servicios. La información a la que se hace referencia puede incluir:
 
@@ -114,7 +114,7 @@ A través del uso de nuestros servicios, cada usuario comparte su información c
 
 4. Servicio de terceros y sitios web enlazados fuera de nuestro control. En el caso de que el usuario use algún servicio de terceros o enlaces web que estén integrado a nuestros productos o servicios existe la posibilidad de que dicho tercero o enlace web reciba información que el usuario comparta con ellos. El usuario debe tener presente que al momento de usar un servicio de un tercero, las políticas de Videsk SpA no aplicarán ya que excede la esfera de nuestro conocimiento y control, por lo que estos otros servicios ajenos a Videsk SpA se regirán por sus propios términos y condiciones y políticas de privacidad.
 
-**Legislación y protección.**
+## Legislación y protección
 
 Videsk SpA puede recolectar, usar, conservar y posiblemente compartir la información personal y cualquier otra información que tengamos disponible, si consideramos, de buena fe, que es razonablemente necesario para:
 
@@ -128,7 +128,7 @@ Videsk SpA puede recolectar, usar, conservar y posiblemente compartir la informa
 
 Cabe señalar, que nada de lo dispuesto en la presente política de privacidad evitará el fiel cumplimiento de la legislación aplicable por parte de Videsk SpA.
 
-**Actualizaciones a nuestra Política de Privacidad.**
+# Actualizaciones a nuestra Política de Privacidad
 
 Videsk SpA. puede actualizar su Política de Privacidad. Daremos aviso de las modificaciones de la Política de Privacidad, según corresponda, y actualizaremos la fecha de "Última Modificación" en la página web dónde se encuentra copia vigente de la Política de Privacidad. Al continuar con el uso de nuestros productos o servicios, confirma su
 aceptación a nuestra Política de Privacidad, con cualquier modificación. Si no está de acuerdo con nuestra Política de Privacidad o con sus modificaciones, debe dejar de usar nuestros productos y servicios. En cualquier caso podrá realizar las consultas respectivas por medio de los canales ya señalados.

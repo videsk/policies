@@ -1,5 +1,4 @@
-# Legal Web
-# ¡Bienvenido a Videsk!
+# Términos y políticas
 
 Gracias por utilizar nuestros servicios. Los servicios son entregados por Videsk SpA, domiciliado en la ciudad de Santiago, Chile. Videsk es una plataforma que facilita y mejora la comunicación a través de espacios digitales, entre instituciones y sus usuarios o consumidores, por medio de una video-atención embebido en la plataforma digital que mejora la experiencia de los usuarios permitiendo una comunicación más cercana. La comunicación es soportada por un sistema de centro de contacto que permite crear una fila de espera virtual y distribuir las atenciones de forma ordenada. También entrega un completo dashboard de administración para que las instituciones puedan personalizar Videsk y ajustarlo a sus propias necesidades.
 

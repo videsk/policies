@@ -1,6 +1,6 @@
 # Términos y Condiciones de Videsk SpA
 
-## Definiciones
+### Definiciones
 
 Usuario: Sujeto o persona, natural o jurídica, que interactúe con los servicios de Videsk SpA.
 
@@ -8,13 +8,14 @@ Producto: Bienes o servicios, materiales e inmateriales que comercializa Videsk 
 
 Servicio: Dice relación con la utilidad o función que desempeñan los productos o trabajos que desarrolla Videsk SpA.
 
-**Información General.**
+## Información General
 
 Es requisito necesario para la adquisición y/o uso de los servicios que se ofrecen en este sitio, que lea y acepte los siguientes Términos y Condiciones que a continuación se redactan. El uso de nuestros servicios así como la compra de nuestros productos implicará que usted, y contando con la debida representación en caso de ser necesario, ha leído y aceptado los presentes Términos y Condiciones. Todos los productos o servicios que son ofrecidos por nuestro sitio web podrán ser creados, operados, cobrados, enviados, presentados o ejecutados por una página web o compañía tercera y en tal caso estarán sujetas a sus propios Términos y Condiciones.
 
 En algunos casos, para adquirir un producto de Videsk, será necesario el registro por parte del Usuario, con ingreso de información fidedigna y creación de una contraseña.
 
 Para acceder a los servicios que se presten por medio de Videsk, será necesario el registro de parte del Usuario por medio de formularios de contacto u otras formas de registro. La acción de agregar, quitar o modificar formularios o registros es decisión exclusiva de la institución que habilite Videsk en su plataforma digital.
+
 **Todas las compras y transacciones que se realicen por medio de los servicios, están sujetas al cumplimiento de las condiciones requeridas por el medio de pago seleccionado.** En algunos casos puede que requiera una verificación por medio de correo electrónico.
 
 Los Términos y Condiciones que se tratan en este documento son de carácter general por lo que no necesariamente aplicarán para eventos especiales tales como ofertas, actividades particulares o promociones determinadas, en cuyo caso se informará de manera oportuna si el evento o actividad determinada contará con una variación en los Términos y Condiciones en relación a los servicios aplicables.
@@ -23,7 +24,7 @@ La institución que active Videsk en sus plataformas digitales, deberá configur
 
 No utilice los servicios entregados por Videsk SpA. de forma indebida. No interfiera en nuestros productos y servicios, ni intente acceder a ellos por otro método diferente a la interfaz y las instrucciones que le proporcionamos.
 
-**Relación Contractual.**
+## Relación Contractual
 
 El presente documento de Términos y Condiciones regula el acceso y el uso de aplicaciones móviles, páginas web, contenido, productos y servicios puestos a disposición por Videsk SpA.
 
@@ -35,7 +36,7 @@ Las disposiciones de estos Términos y Condiciones son de carácter general y as
 
 Los usuarios, salvo expreso acuerdo en contrario, no podrán utilizar contenido de nuestros servicios. Este documento no otorga derechos en forma tácita, sólo aquellos expresamente señalados y definidos.
 
-### Acerca los Servicios.
+## Acerca los Servicios.
 
 Para el correcto uso de nuestros servicios, en caso de ser necesario, el usuario deberá registrarse con información fidedigna, cómo por ejemplo, proporcionar nombre, dirección, correo electrónico, número de teléfono, número de identificación civil o de la empresa junto con el representante legal, según corresponda. En caso del registro por medio de un representante será necesario nombre completo, número de identificación civil, correo electrónico y número de teléfono. Lo anterior no asegura que se solicite dicha información.
 
@@ -51,11 +52,11 @@ El usuario tendrá que proporcionar el uso de ciertos dispositivos, software y c
 
 Los servicios pueden incluir la comunicación entre partes y permitir el envío de datos, información o contenidos que no pertenecen a Videsk SpA. Dicha comunicación, datos, información o contenido es de exclusiva responsabilidad del usuario o entidad que lo expone, envía, comunica o pone a disposición. El usuario autoriza la opción de, eventualmente, revisar contenido para determinar la legalidad de las conductas y el respeto a los Términos y Condiciones y Políticas de Privacidad. Sin embargo, lo anterior no quiere decir que común o habitualmente se revisen los contenidos, por lo que no es correcto suponer que así sea.
 
-### Servicio de Terceros.
+## Servicio de Terceros.
 
 Los servicios de Videsk SpA pueden permitir el acceso, uso o interacción con sitios web, aplicaciones, contenido y otros productos y servicios de terceros que interactúan o se integran con los de Videsk SpA. Es necesario que el usuario comprenda que en el momento que use un servicio de un tercero, serán los propios términos y condiciones y/o políticas de privacidad de dicho servicio, los que regirán su uso e interacción. En ese sentido, Videsk SpA no es responsable por la falta de documentación legal o reglamentaria necesaria o la insuficiencia de esta si fuera el caso; tampoco será responsable por posibles costos ajenos que dichos servicios produzcan o puedan producir.
 
-**Titularidad de los Derechos.**
+## Titularidad de los Derechos
 
 Videsk SpA es y seguirá siendo propietario de todos los servicios que entrega y derechos relacionados, incluyendo los derechos de propiedad intelectual. Ninguna cláusula de los presentes Términos y Condiciones ni el uso de los servicios transfieren u otorgan ningún derecho relacionado con los servicios, exceptuando la licencia limitada de uso que puede otorgar, así como tampoco transfiere u otorga ningún derecho a vender, arrendar, subarrendar, mencionar o utilizar en cualquier modo los derechos de propiedad intelectual, marcas comerciales, dominios, logotipos, imágenes comerciales, patentes y otros derechos, salvo acuerdo expreso en contrario.
 
@@ -64,7 +65,7 @@ Se reconocen cómo propiedad exclusiva de Videsk SpA todos los derechos relacion
 Videsk SpA no reclama, ni pretende hacerlo, la propiedad del contenido o información que los usuarios traten o envíen a través de nuestros servicios. Es deber de cada usuario preocuparse por tener los derechos necesarios de dicha información que envíe a su cuenta o a través de los servicios de Videsk, así como de preocuparse por tener el derecho a conceder derechos y licencias que correspondan. Será de exclusiva responsabilidad de cada usuario el incumplir con lo anterior.
  Las partes acuerdan que Videsk SpA sólo es un canal de comunicación, y no tiene decisión, injerencia ni responsabilidad alguna en las acciones que cada usuario realice o incurra en el uso de los servicios de Videsk SpA.
 
-**Licencia.**
+### Licencia
 
 Sujeto al cumplimiento de los presentes Términos y Condiciones, Videsk SpA otorga:
 
@@ -76,15 +77,15 @@ La presente licencia se otorga con el único fin de permitir al usuario utilizar
 
 Para poder operar y proveer nuestros servicios, el usuario otorga a Videsk SpA. una licencia internacional, no exclusiva, libre de regalías, que puede sub-licenciarse y transferirse con derecho a usar, copiar, reproducir, distribuir, crear obras derivadas, mostrar públicamente y ejecutar la información, incluido el contenido, que envía, sube, presenta, almacena, envía o recibe a través de nuestros servicios, o de otro modo explotar de cualquier manera dicho contenido de usuario en todos los formatos y canales de distribución, conocidos ahora o ideados en un futuro.Lo anterior sin necesidad de mayor aviso o consentimiento, ni condición por parte del usuario, qué la aceptación de los presente Términos y Condiciones. Los derechos que usted otorga en esta licencia son para el objetivo de operar, promocionar, mejorar y optimizar nuestros servicios, y facilitar nuevos desarrollos, con la limitante que entregue la ley aplicable. Esta licencia subsistirá aun cuando usted deje de utilizar nuestros servicios.
 
-**Garantía.**
+### Garantía
 
 Nuestros productos se proporcionan  sin ningún tipo de garantía, expresa o implícita, salvo expreso acuerdo en contrario. En ningún caso Videsk SpA será responsable de algún daño, incluyendo, sin ser una enunciación taxativa, daños directos, indirectos, especiales, fortuitos o consecuentes u otras pérdidas resultantes del uso indebido, de la imposibilidad de utilizar nuestros productos o servicios, o de aquellos resultantes de un uso indebido o negligente, o el realizado sin las atenciones o cuidados necesarios por parte del usuario. Esto incluye la falta de cuidado en los datos personales de los usuarios, sus claves de acceso y la información entregada de manera voluntaria en los canales de comunicación y campos libres que puedan ofrecer nuestros productos o servicios.
 
-**Política de Privacidad.**
+### Política de Privacidad
 
 La Política de Privacidad de Videsk SpA describe nuestras prácticas relacionadas a la información, incluidos los tipos de datos que recibimos y recopilamos del usuario y la forma en que usamos y compartimos esta información. El usuario acepta nuestras prácticas de datos, que incluyen la recopilación, la utilización, el procesamiento y el uso compartido de su información, tal como se describe en nuestra Política de Privacidad, así como la transferencia y el procesamiento de la información en Chile, los Estados Unidos, México y otros países de manera global donde tenemos o usamos instalaciones, proveedores de servicios o socios, sin importar dónde se usen nuestros servicios. Se reconoce que las leyes, reglamentaciones y normas del país en el que se almacena o procesa la información pueden ser diferente de aquellas que rigen en su propio país. Al aceptar el presente Término y Condiciones se entiende que leyó y aceptó nuestra Política de Privacidad adjunta.
 
-### Uso de los Servicios.
+### Uso de los Servicios
 
 El uso de nuestros Servicios debe realizarse en estricta conformidad a nuestros Términos y Condiciones. Si se inhabilita su cuenta debido a una infracción de nuestros Términos y Condiciones, no podrá crear otra cuenta sin autorización expresa de Videsk SpA.
 
@@ -127,7 +128,7 @@ El usuario es el responsable de mantener la seguridad de su plataforma digital, 
 
 En el caso que el usuario use nuestros productos o servicios a nombre de una empresa, ésta última mantendrá indemne e indemnizará a Videsk SpA y a sus afiliadas, directores, agentes y empleados de cualquier reclamo, pleito o acción relativa al uso de estos Servicios o incumplimiento de estos Términos y Condiciones, incluido cualquier costo o responsabilidad que surja de reclamos, pérdidas, daños, pleitos, fallos, costos de litigio y honorarios de abogados y asesores.
 
-**Cuentas de Usuario.**
+### Cuentas de Usuario
 
 Para acceder a la mayor parte de los servicios puede ser necesario que el usuario registre una cuenta con información fidedigna y utilice el software mediante ésta cuenta. El usuario podrá crear una cuenta individual o personal, o un administrador, en caso de tratarse de instituciones o empresas, será el empleador el que se responsabilice de asignar y administrar a su criterio las cuentas de agente y cuentas de administración o dashboard, así también será el responsable del uso que se les den a las cuentas bajo su asignación.
 
@@ -137,13 +138,13 @@ El usuario se compromete a mantener su cuenta con información fidedigna, actual
 
 En algunos casos, se podrá requerir al usuario que facilite documentación de identidad u otro elemento de verificación de identidad para el acceso o uso de los productos o servicios, y como requisito para la validación de alguna acción o uso, siendo posible el denegar el acceso a la cuenta o uso de los productos o servicios si se incumple con el requerimiento o validación solicitada.
 
-**Contenido del Usuario en nuestro Productos o Servicios.**
+### Contenido del usuario en nuestro productos o servicios
 
 Nuestros Servicios pueden permitir subir, almacenar, enviar o recibir contenido. Será el propio usuario quien conserve los derechos de propiedad intelectual u otros derechos que posea sobre dicho contenido. Cuando suba, ingrese, almacene, envíe o reciba contenido, mediante, a través o directamente a los productos o servicios, estará otorgando a Videsk SpA la licencia descrita en el presente documento. Algunos productos y servicios pueden ofrecer distintas maneras de acceder y eliminar contenido que se haya proporcionado para ese producto o servicio. Además, en algunos de los productos o servicios, hay condiciones o parámetros de configuración que limitan el alcance de nuestro uso del contenido provisto en ellos. Asegúrese de tener los derechos necesarios para otorgarnos esta licencia para cualquier contenido que envíe a través o directamente a nuestros productos y servicios.
 
 El usuario podrá enviar comentarios o sugerencias acerca de nuestros productos y servicios, los que serán considerados pero no así obligatorios respecto de nuestro actuar.
 
-**De la Renuncia y Descargos de Responsabilidad.**
+### De la Renuncia y Descargos de Responsabilidad
 
 Es decisión de cada usuario el utilizar nuestros servicios, entendiendo y aceptando las disposiciones desarrolladas en el presente instrumento. Videsk SpA. provee sus servicios &quot;tal como están&quot;, y declara renunciar a toda declaración y garantía, expresa o implícita no establecidas expresamente en el presente documento, lo que incluye, entre otras, garantías de comerciabilidad, idoneidad para un objeto particular, título, no infracción y ausencia de cualquier virus informático u otro tipo de código dañino. No garantizamos que toda información proporcionada por nosotros sea precisa, completa o útil, que nuestros servicios sean operativos, estén exentos de errores, protegidos o seguros, o que nuestros servicios funcionen sin interrupciones, demoras o imperfecciones. No controlamos y no somos responsables de controlar cómo o cuándo nuestros usuarios usan nuestros servicios o las funciones, los servicios y las interfaces que nuestros productos y servicios proporcionan. No somos responsables ni estamos obligados a controlar ni a garantizar la calidad, idoneidad, seguridad, habilidad, acciones ni la información o contenido de nuestros usuarios o proveedores.
 
@@ -159,22 +160,22 @@ Videsk SpA no será responsable del retraso o de la falta de ejecución resultan
 
 El descargo de responsabilidad de ciertos daños y la limitación de responsabilidad anteriores se aplicarán en la medida máxima permitida por la ley aplicable. Es posible que las leyes de algunos estados o jurisdicciones no permita la exclusión o limitación de ciertos daños y, por lo tanto, es posible que algunas o todas las exclusiones y limitaciones descritas anteriormente no se apliquen en su caso. Sin perjuicio de cualquier disposición que establezca lo contrario en nuestros Términos y Condiciones, en tales casos, la responsabilidad de Videsk SpA, sus licenciantes, afiliadas, entidades sucesoras o propietarios nuevos, estarán limitada al alcance máximo permitido por la ley aplicable.
 
-**Actualizaciones de Software.**
+### Actualizaciones de Software
 
 Videsl SpA cambia y mejora los productos y servicios continuamente, pudiendo agregar o quitar funciones o características. Videsk SpA puede solicitar a los usuarios que actualicen su información o actualicen su versión de los productos o servicios en cualquier momento, y también puede suspender o interrumpir un servicio en su totalidad para estos fines.
  Si Videsk SpA cancela un producto o servicio, y siempre que ello fuere razonablemente posible, le notificaremos con una anticipación razonable y le brindaremos la posibilidad de obtener información bajo ese producto o servicio. Se harán los esfuerzos necesarios por conservar las configuraciones y preferencias personales de los usuarios, sin ser esto último una obligación sancionable.
 
-**Modificación de los Términos y Condiciones.**
+# Modificación de los términos y condiciones
 
 El usuario acepta estos Términos y Condiciones y faculta a Videsk SpA para modificar los presentes Términos y Condiciones en caso de considerarlo necesario y oportuno. En consecuencia, usted se obliga a revisar periódicamente estos Términos y Condiciones sin perjuicio de que se notificará de forma oportuna cada modificación que se pudiera realizar. Daremos aviso de las modificaciones del Término y Condiciones y de la Política de Privacidad, según corresponda, y actualizaremos la fecha de &quot;Última Modificación&quot; en la parte superior de los Términos y Condiciones o Política de Privacidad en la página web de Videsk SpA. Al continuar con el uso de nuestros servicios, confirma su aceptación a los Términos y Condiciones y nuestra Política de Privacidad, con cualquier modificación.
 
 En caso que un usuario no esté de acuerdo con nuestros Términos y Condiciones o Política de Privacidad o con sus modificaciones, debe dejar de usar nuestros servicios.
 
-### Legislación aplicable y Resolución de conflictos.
+# Legislación aplicable y Resolución de conflictos.
 
 Estos Términos y Condiciones se regirán, interpretarán y ejecutarán en todas sus partes y sin importar las personas o entidades jurídicas, que figuren en el mismo, por el marco legal de la República de Chile. Las partes acuerdan que cualquier controversia suscitada en relación al presente acuerdo, su existencia, validez, interpretación, alcance o cumplimiento, deberá ser sometida a los Tribunales de Justicia competentes conforme a los procedimientos y a la ley aplicable de la República de Chile y llevados en idioma castellano, salvo expreso acuerdo en contrario.
 
-### Misceláneos.
+# Misceláneos.
 
 - Nuestros servicios pueden ser interrumpidos, incluso para mantenimiento, reparaciones o actualizaciones, o por fallos de equipo o la red. Podemos discontinuar en cualquier momento todos o algunos de nuestros Servicios, incluidas algunas funciones y la compatibilidad con ciertos dispositivos y plataformas. Nuestro Servicios pueden verse afectados por eventos fuera de nuestro control, como desastres naturales y otros eventos de fuerza mayor.
 - Las disposiciones que aborden temas como: Licencia, Responsabilidad, Indemnizaciones, Legislación Aplicable y la Política de Privacidad perdurarán tras la terminación de la relación contractual con Videsk SpA.

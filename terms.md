@@ -2,11 +2,9 @@
 
 ### Definiciones
 
-Usuario: Sujeto o persona, natural o jurídica, que interactúe con los servicios de Videsk SpA.
-
-Producto: Bienes o servicios, materiales e inmateriales que comercializa Videsk SpA.
-
-Servicio: Dice relación con la utilidad o función que desempeñan los productos o trabajos que desarrolla Videsk SpA.
+- Usuario: Sujeto o persona, natural o jurídica, que interactúe con los servicios de Videsk SpA.
+- Producto: Bienes o servicios, materiales e inmateriales que comercializa Videsk SpA.
+- Servicio: Dice relación con la utilidad o función que desempeñan los productos o trabajos que desarrolla Videsk SpA.
 
 ## Información General
 

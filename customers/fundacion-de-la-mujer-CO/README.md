@@ -24,7 +24,7 @@ Fundación delamujer pone a disposición de todos sus usuarios a **VIDEOCHAT**, 
 
 1.4 Los productos y servicios anunciados no constituyen una oferta mercantil según los términos de la legislación colombiana, por lo que FUNDACIÓN DELAMUJER, se reserva el derecho de modificar unilateralmente y sin previo aviso el contenido y los servicios prestados a través del presente sitio. Las modificaciones se harán efectivas después de la publicación de los Términos y Condiciones actualizados en esta ubicación, o por cualquier otro medio electrónico o físico. La continuidad en el uso de los Servicios después de dicha publicación constituye su consentimiento y aceptación a los Términos y Condiciones modificados.
 
-**2.** **Para interactuar por medio de Videochat se debe ingresar a la página web **www.fundaciondelamujer.com** y allí encontrará la opción para iniciar una videollamada con nuestras Fidelinas**
+**2.** **Para interactuar por medio de Videochat se debe ingresar a la página web [www.fundaciondelamujer.com](https://www.fundaciondelamujer.com) y allí encontrará la opción para iniciar una videollamada con nuestras Fidelinas**
 
 - No es necesario iniciar algún tipo de sesión para comenzar una conversación desde la página web de la organización.
 

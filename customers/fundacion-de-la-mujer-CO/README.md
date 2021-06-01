@@ -1,4 +1,4 @@
-#TÉRMINOS Y CONDICIONES DE USO PARA VIDEOCHAT EN PÁGINA WEB
+# TÉRMINOS Y CONDICIONES DE USO PARA VIDEOCHAT EN PÁGINA WEB
 
 Este contrato define los términos y condiciones ("Términos y Condiciones"), entre FUNDACIÓN DELAMUJER COLOMBIA SAS identificada con el NIT 901.128.535-8, en adelante denominado "; **FUNDACIÓN DELAMUJER";** y **VIDESK SpA** , aplicables al usode la atención al servicio ofrecido de videollamada a través de la página web [www.fundaciondelamujer.com](http://www.fuandaciondelamujer.com/). Cualquier persona que acceda a la página web y desee acceder a la atención de videochat ofrecida en **FUNDACIÓN DELAMUJER** por la plataforma **VIDESK SpA** podrá hacerlo sujetándose a los Términos y Condiciones junto con el tratamiento de datos personales que rigen a **FUNDACIÓN DELAMUJER COLOMBIA  SAS,** y que son incorporados en el presente documento, se regirá especialmente por las siguientes cláusulas:
 

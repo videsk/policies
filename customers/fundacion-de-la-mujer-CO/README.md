@@ -46,7 +46,7 @@ Con la autorización otorgada previo al inicio del contacto por esta herramienta
 
 Fundación delamujer necesitará sus datos personales en caso de que desee realizar una pre-solicitud de crédito. Por esta razón durante la videollamada  con Fidelina  le podrá solicitar datos como: Nombres y apellidos, tipo de documento de identidad, número del documento de identidad, fecha de expedición del documento de identidad, números de contacto, departamento, ciudad, barrio, dirección, correo electrónico, actividad económica, sub actividad económica, tiempo de desarrollo de la actividad, cantidad de dinero a solicitar monto del crédito, plazo para el pago del mismo dinero. Estos datos serán tratados por Fundación delamujer para ofrecerle un servicio rápido y práctico para dar paso a la creación de una solicitud de crédito. Para mayor información sobre el tratamiento de datos de Fundación delamujer podrá ingresar al siguiente enlace.
 
-https://www.fundaciondelamujer.com/Tratamiento\_Datos\_Personales/POLITICA\_INSTITUCIONAL\_DE\_TRATAMIENTO\_DE\_INFORMACION\_Y\_PROTECCION\_DE\_DATOS\_PERSONALES.pdf
+[POLITICA INSTITUCIONAL DE TRATAMIENTO DE INFORMACION Y PROTECCION DE DATOS PERSONALES.pdf](https://www.fundaciondelamujer.com/Tratamiento\_Datos\_Personales/POLITICA\_INSTITUCIONAL\_DE\_TRATAMIENTO\_DE\_INFORMACION\_Y\_PROTECCION\_DE\_DATOS\_PERSONALES.pdf)
 
 
  5.1.    Con la autorización otorgada previo al inicio del contacto por esta herramienta, usted está declarando estar de acuerdo y dar consentimiento para el uso de sus datos de voz y vídeo grabados, lo cual tiene como fin monitorear la atención y garantizar la calidad del servicio.

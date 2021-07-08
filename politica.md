@@ -84,10 +84,11 @@ Como ocurre con la mayoría de los softwares, aplicaciones móviles y sitios web
 2. En el caso de que el usuario pague por los productos o servicios, podremos recibir información y confirmaciones, ello incluye a terceros que procesen los pagos.
 
 3. Información sobre conexión y dispositivos/hardware:
-   1. La información que recopilamos puede incluir información del hardware, incluyendo el modelo y la versión, la información del sistema operativo, el navegador, la dirección del protocolo de internet “IP”, proveedor de servicios de internet “ISP”.
+   1. La información que recopilamos puede incluir información del hardware, incluyendo el modelo y la versión, la información del sistema operativo, el navegador, la dirección del protocolo de internet "IP", proveedor de servicios de internet "ISP".
    2. Sensores: de Geoposición (previa autorización), orientación del dispositivo y/o toques en pantalla. En el caso de dispositivos móviles esto puede incluir el número de teléfono y los identificadores del dispositivo
-   3. En el caso de navegadores puede incluir: modelo, versión registros Web Api y usuario.
-   4. Usamos almacenamiento local, la que puede variar en el uso de diferentes aplicativos cómo localStorage, sessionStorage, Cookies, Web SQL, IndexedDB, Cache Storage, Application Cache. El uso del almacenamiento local es para operar y proveer nuestros servicios, lo que incluye proveer nuestros servicios basados en web, para entender cómo se usan nuestros productos y servicios y así siempre mejorar la experiencia del usuario. También podemos usar el almacenamiento local para recordar sus preferencias de idioma, y también para personalizar nuestros productos y servicios para el usuario.
+   3. Conexiones: Ubicaciones asociadas a la "IP", tiempos de conexiones y estados de las conexiones.
+   4. En el caso de navegadores puede incluir: modelo, versión registros Web Api y usuario.
+   5. Usamos almacenamiento local, la que puede variar en el uso de diferentes aplicativos cómo localStorage, sessionStorage, Cookies, Web SQL, IndexedDB, Cache Storage, Application Cache. El uso del almacenamiento local es para operar y proveer nuestros servicios, lo que incluye proveer nuestros servicios basados en web, para entender cómo se usan nuestros productos y servicios y así siempre mejorar la experiencia del usuario. También podemos usar el almacenamiento local para recordar sus preferencias de idioma, y también para personalizar nuestros productos y servicios para el usuario.
 
 ## Información de terceros
 

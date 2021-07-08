@@ -31,8 +31,11 @@ El usuario autoriza a Videsk SpA a transferir o asignar su información, fuera d
 
 ### Nuestras operaciones
 
-El usuario acepta nuestras prácticas de información, que incluyen la recopilación, el uso, el procesamiento y el uso compartido de su información, tal como se describe en esta Política de Privacidad, así como la transferencia y el procesamiento de su información en Chile, México, Estados Unidos, Hong Kong y otros países en forma internacional donde
-tenemos o usamos instalaciones, proveedores de servicios o socios, independientemente de dónde se usen nuestros productos o servicios. El usuario reconoce que las leyes, disposiciones y normas del país en el que se almacena o procesa su información pueden diferir de aquellas que rigen en su propio país.
+El usuario acepta nuestras prácticas de información, que incluyen la recopilación, el uso, el procesamiento y el uso compartido de su información, tal como se describe en esta Política de Privacidad, así como la transferencia y el procesamiento de su información en Chile, México, Estados Unidos, Hong Kong y otros países en forma internacional donde tenemos o usamos instalaciones, proveedores de servicios o socios, independientemente de dónde se usen nuestros productos o servicios. El usuario reconoce que las leyes, disposiciones y normas del país en el que se almacena o procesa su información pueden diferir de aquellas que rigen en su propio país.
+
+En ningún caso el usuario se expone a filtraciones de información sensible tratada durante las video atenciones, toda vez que Videsk SpA no accede a esta, por tratarse de comunicaciones encriptadas de punto a punto, ni tampoco guarda copias o respaldos de las video atenciones, documentos o información entregada por la video atención, el chat, ni los documentos compartidos. En general los datos y la información tratada y procesada es de carácter general y no sensible.
+
+La información tratada dice relación con: los campos a completar en los formularios de contacto personalizados que pueden o no implementar las instituciones que utilicen Videsk; Dirección IP del dispositivo digital por el cual los usuarios realicen las video llamadas, Tipo de dispositivo digital; Sistema Operativo, Segmento seleccionado; Sitio web del cual realizan la video llamada, Idioma en el que esté configurado su navegador, información anotada en el campo de texto de la consola de agente; Tiempos de espera en la fila virtual; Abandonos de la fila virtual; Tiempo de duración de la llamada, Acciones de iniciar y finalizar la video atención.
 
 ### Uso de la información
 

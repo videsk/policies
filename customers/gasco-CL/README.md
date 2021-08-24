@@ -1,5 +1,12 @@
 # ¡Bienvenido a Videsk!
 
+### Índice
+
+| Páginas     |
+|-------------|
+| [Privacidad](/privacy)        |
+| [Términos y condiciones](/) |
+
 **Gracias por utilizar nuestros servicios. Los servicios son entregados por Videsk SpA, domiciliado en la ciudad de Santiago, Chile. Videsk es una plataforma que facilita y mejora la comunicación a través de espacios digitales, entre instituciones y sus usuarios o consumidores, por medio de una video-atención embebido en la plataforma digital que mejora la experiencia de los usuarios permitiendo una comunicación más cercana. La comunicación es soportada por un sistema de centro de contacto que permite crear una atención virtual personalizada.**
 
 **Es importante que antes de aceptar los Términos y Condiciones de Videsk, usted lea detenidamente las disposiciones, que guardan estricto apego y relación a la legislación aplicable. Es importante para nosotros que pueda otorgar su consentimiento informado y es por eso que insistimos que a través del uso de nuestros servicios usted está aceptando las disposiciones prescritas en los Términos y condiciones.**

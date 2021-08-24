@@ -1,5 +1,11 @@
 # Política de Privacidad de Videsk SpA
 
+### Índice
+| Páginas     |
+|-------------|
+| [Privacidad](/privacy)        |
+| [Términos y condiciones](/) |
+
 Para Videsk SpA, la protección y seguridad en los datos y la información entregada por cada usuario es fundamental y forma parte esencial de nuestros servicios. Deseamos alcanzar un desarrollo global en base a sólidos principios de privacidad, los cuales se establecen en el presente documento &quot;Política de Privacidad&quot;, y hace referencia a los productos y servicios entregados por Videsk SpA, lo que abarca: el sitio web de Videsk SpA: [http://videsk.io](http://videsk.io/), aplicaciones móviles, software y funciones. La presente política de privacidad es de aplicación general y global en los productos y servicios entregados por Videsk SpA.
 
 La Política de Privacidad de busca explicar los tratamientos que se realiza a la información que proviene, directa o indirectamente, de los productos o servicios, cómo la recopilación y la administración de ellos, así como también las medidas de seguridad que implementamos para mantener la seguridad de la privacidad de cada usuario. También se explica las diferentes formas en que cada usuario puede tener acceso a la información, y las formas y condiciones de modificarla o actualizarla.

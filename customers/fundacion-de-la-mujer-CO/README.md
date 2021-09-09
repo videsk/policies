@@ -99,4 +99,4 @@ El uso del sitio y/o sus servicios implica la aceptación de estos Términos y C
 
 Las notificaciones remitidas a FUNDACIÓN DELAMUJER COLOMBIA SAS identificada con NIT 901.128.535-8, serán recibidas en el kilómetro 7 + 400 Anillo vial Palenque Floridablanca 22-31 San Jorge Centro Industrial y Logístico, bodega 94. – Santander.
 
-En constancia los presentes Términos y Condiciones fueron publicados en su versión 1.0: el \_\_\_\_\_ de \_\_\_\_\_\_ de 2021.
+En constancia los presentes Términos y Condiciones fueron publicados en su versión 1.0: el 11 de junio de 2021.

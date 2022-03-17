@@ -160,7 +160,7 @@ El descargo de responsabilidad de ciertos daños y la limitación de responsabil
 
 ### Actualizaciones de Software
 
-Videsl SpA cambia y mejora los productos y servicios continuamente, pudiendo agregar o quitar funciones o características. Videsk SpA puede solicitar a los usuarios que actualicen su información o actualicen su versión de los productos o servicios en cualquier momento, y también puede suspender o interrumpir un servicio en su totalidad para estos fines.
+Videsk SpA cambia y mejora los productos y servicios continuamente, pudiendo agregar o quitar funciones o características. Videsk SpA puede solicitar a los usuarios que actualicen su información o actualicen su versión de los productos o servicios en cualquier momento, y también puede suspender o interrumpir un servicio en su totalidad para estos fines.
  Si Videsk SpA cancela un producto o servicio, y siempre que ello fuere razonablemente posible, le notificaremos con una anticipación razonable y le brindaremos la posibilidad de obtener información bajo ese producto o servicio. Se harán los esfuerzos necesarios por conservar las configuraciones y preferencias personales de los usuarios, sin ser esto último una obligación sancionable.
 
 # Modificación de los términos y condiciones
